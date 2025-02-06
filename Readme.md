@@ -17,7 +17,7 @@ The email request must come from the email account to be deleted. In your email,
 - The email address associated with your account
 - A brief request for data deletion
 
-We will process your request within a reasonable timeframe and notify you once it has been completed.
+We will process your request within a reasonable timeframe, We may contact you by other means to confirm the request and notify you once it has been completed.
 
 ---
 
